@@ -1,9 +1,9 @@
 ## Back-end engineer
 
-#### Skill
+### Skill
 spring boot, java, jpa, mybatis, elk, redis, gradle, docker
 
-#### My Rule
+### My Rule
 
 - 예외를 잘 활용하자(특히 실패원인은 작성한 개발자만 알 수 있다. 그래서 예외 메시지에 자세하게 적어줘야 로그를 보고 쉽게 대응 할 수 있다.)
 
