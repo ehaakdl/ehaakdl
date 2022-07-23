@@ -1,7 +1,7 @@
 ## Back-end engineer
 
 ### Skill
-spring boot, java, jpa, mybatis, elk, redis, gradle, docker
+spring boot, java, jpa, mybatis, elk, redis, gradle, docker, jenkins
 
 ### My Rule
 
